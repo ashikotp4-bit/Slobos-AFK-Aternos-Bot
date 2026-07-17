@@ -1,13 +1,13 @@
 {
   "name": "BejBej",
   "bot-account": {
-    "username": "system",
+    "username": "24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "obsidian.swiftsrv.org",
-    "port": 25565,
+    "ip": "CrazySmpBd.aternos.me",
+    "port": 27897,
     "version": "",
     "try-creative": false
   },
